@@ -16,6 +16,13 @@ _기준 버전: 1.10.4_
 >
 > [ARM64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_darwin_arm64.zip)
 
+> ## Windows
+>
+> ### 바이너리 파일 다운로드
+> [386](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_windows_386.zip)
+>
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_windows_amd64.zip)
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
