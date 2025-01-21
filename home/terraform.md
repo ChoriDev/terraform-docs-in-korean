@@ -32,12 +32,12 @@ _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
 > ### [테라폼 스타일 가이드](https://developer.hashicorp.com/terraform/language/style)
 > 
-> 테라폼 구성 및 작업 흐름에 대해 권장하는 작성 형식을 배워 보세요.
+> 테라폼 구성 및 워크플로에 대해 권장하는 작성 형식을 배워 보세요.
 
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
 > ### [테라폼 도입 단계](https://developer.hashicorp.com/terraform/intro/phases)
 > 
-> 규모에 맞게 테라폼 작업 흐름을 설계해 보세요.
+> 규모에 맞게 테라폼 워크플로를 설계해 보세요.
 
 ## 주요 문서
 
@@ -49,7 +49,7 @@ _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
 > ### [테라폼 CLI](https://developer.hashicorp.com/terraform/cli)
 >
-> 테라폼 CLI에 기반한 작업 흐름을 배워 보세요.
+> 테라폼 CLI에 기반한 워크플로를 배워 보세요.
 
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
 > ### [HCP Terraform](https://developer.hashicorp.com/terraform/cloud-docs)
