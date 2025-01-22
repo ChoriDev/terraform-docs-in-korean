@@ -52,7 +52,7 @@ _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 > 테라폼 CLI에 기반한 워크플로를 배워 보세요.
 
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
-> ### [HCP Terraform](https://developer.hashicorp.com/terraform/cloud-docs)
+> ### [HCP 테라폼](https://developer.hashicorp.com/terraform/cloud-docs)
 >
 > 팀과 협력하여 인프라를 프로비저닝할 수 있습니다.
 
@@ -64,4 +64,4 @@ _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform)
 
-**마지막 업데이트:** 2025년 1월 20일
+**마지막 업데이트:** 2025년 1월 22일
