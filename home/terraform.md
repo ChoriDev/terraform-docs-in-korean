@@ -1,7 +1,7 @@
 _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 
 <!-- TODO 아래 문서 번역 후 해당 문서 링크 연결 -->
-|[설치](https://developer.hashicorp.com/terraform/install)|[튜토리얼](https://developer.hashicorp.com/terraform/tutorials)|[문서](https://developer.hashicorp.com/terraform/docs)|
+|[설치](/home/install.md)|[튜토리얼](https://developer.hashicorp.com/terraform/tutorials)|[문서](https://developer.hashicorp.com/terraform/docs)|
 |---|---|---|
 
 ## 테라폼은 무엇인가요?
@@ -64,4 +64,4 @@ _모든 클라우드에서 인프라를 자동화할 수 있습니다._
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform)
 
-**마지막 업데이트:** 2025년 1월 22일
+**마지막 업데이트:** 2025년 1월 23일
