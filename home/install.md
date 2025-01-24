@@ -156,6 +156,27 @@ _기준 버전: 1.10.5_
 >
 > 테라폼을 사용하여 버전 관리 환경에서 협업해 보세요. 이 과정을 따라 원격 실행과 상태를 사용하여 인프라를 구축, 변경, 삭제할 수 있습니다.
 
+> ### 테라폼에 대해
+>
+> 클라우드와 온프레미스 리소스들을 사람이 읽을 수 있는 구성 파일로 정의합니다. 이 파일은 버전 관리, 재사용, 공유가 가능합니다.
+>
+> #### 주요 문서
+>
+> <!-- TODO Link the document below after translating it -->
+> [테라폼 소개](https://developer.hashicorp.com/terraform/intro)
+>
+> <!-- TODO Link the document below after translating it -->
+> [구성 언어](https://developer.hashicorp.com/terraform/language)
+>
+> <!-- TODO Link the document below after translating it -->
+> [테라폼 CLI](https://developer.hashicorp.com/terraform/cli/commands)
+>
+> <!-- TODO Link the document below after translating it -->
+> [HCP 테라폼](https://developer.hashicorp.com/terraform/cloud-docs)
+>
+> <!-- TODO Link the document below after translating it -->
+> [프로바이더 사용](https://developer.hashicorp.com/terraform/language/providers)
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
