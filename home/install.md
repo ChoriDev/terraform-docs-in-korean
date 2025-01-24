@@ -93,6 +93,10 @@ _기준 버전: 1.10.5_
 >
 > [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_openbsd_amd64.zip)
 
+> ## Solaris
+>
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_solaris_amd64.zip)
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
