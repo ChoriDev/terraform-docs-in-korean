@@ -177,6 +177,12 @@ _기준 버전: 1.10.5_
 > <!-- TODO Link the document below after translating it -->
 > [프로바이더 사용](https://developer.hashicorp.com/terraform/language/providers)
 
+> ### HCP 테라폼
+>
+> 다양한 규모에서 인프라 구축을 자동화하려면 HCP 테라폼을 사용해 보세요.
+> 
+> [무료로 HCP 테라폼 이용하기](https://app.terraform.io/public/signup/account?product_intent=terraform&utm_source=WEBSITE&utm_medium=WEB_IO&utm_offer=ARTICLE_PAGE&utm_content=DOCS)
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
