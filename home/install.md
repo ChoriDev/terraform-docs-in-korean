@@ -77,6 +77,16 @@ _기준 버전: 1.10.5_
 > <!-- TODO Link the document below after translating it -->
 > 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 HashiCorp 도구를 설치하고 검증하는 방법을 배우고, 검증된 HashiCorp 도구가 포함된 사용자 지정 리눅스 컨테이너를 생성할 수 있습니다.
 
+> ## FreeBSD
+>
+> ### 바이너리 파일 다운로드
+>
+> [386](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_freebsd_386.zip)
+>
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_freebsd_amd64.zip)
+>
+> [ARM](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_freebsd_arm.zip)
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
