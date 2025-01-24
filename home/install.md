@@ -1,6 +1,6 @@
 # 테라폼 설치하기
 
-_기준 버전: 1.10.4_
+_기준 버전: 1.10.5_
 
 > ## 맥OS
 > 
@@ -12,16 +12,16 @@ _기준 버전: 1.10.4_
 > ```
 > 
 > ### 바이너리 파일 다운로드
-> [AMD64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_darwin_amd64.zip)
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_darwin_amd64.zip)
 >
-> [ARM64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_darwin_arm64.zip)
+> [ARM64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_darwin_arm64.zip)
 
 > ## 윈도우
 >
 > ### 바이너리 파일 다운로드
-> [386](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_windows_386.zip)
+> [386](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_windows_386.zip)
 >
-> [AMD64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_windows_amd64.zip)
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_windows_amd64.zip)
 
 > ## 리눅스
 >
@@ -31,7 +31,7 @@ _기준 버전: 1.10.4_
 >
 > ``` shell
 > wget -O - https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
-> echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.> hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
+> echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
 > sudo apt update && sudo apt install terraform
 > ```
 >
@@ -64,13 +64,13 @@ _기준 버전: 1.10.4_
 >
 > ### 바이너리 파일 다운로드
 >
-> [386](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_linux_386.zip)
+> [386](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_linux_386.zip)
 >
-> [AMD64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_linux_amd64.zip)
+> [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_linux_amd64.zip)
 >
-> [ARM](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_linux_arm.zip)
+> [ARM](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_linux_arm.zip)
 >
-> [ARM64](https://releases.hashicorp.com/terraform/1.10.4/terraform_1.10.4_linux_arm64.zip)
+> [ARM64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_linux_arm64.zip)
 >
 > ### 참고
 >
