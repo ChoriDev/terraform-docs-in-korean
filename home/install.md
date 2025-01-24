@@ -112,6 +112,50 @@ _기준 버전: 1.10.5_
 > <!-- TODO Link the tutorial document after translating it -->
 > [테라폼 1.10.5의 SHA256 체크섬](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS)을 온라인에서 확인할 수 있고, [HashiCorp의 GPG 키](https://www.hashicorp.com/security)로 서명된 [체크섬 서명 파일을 검증](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS.sig)할 수 있습니다. 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 HashiCorp 도구를 설치하고 검증하는 방법을 배워 보세요.
 
+## 다음 단계
+
+> 8개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [AWS 시작하기](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+>
+> 테라폼으로 AWS 인프라를 구축하고 변경하고 삭제해 보세요. 단계별로 진행되는 명령줄 튜토리얼로 테라폼의 기본을 처음부터 쉽게 익힐 수 있습니다.
+
+> 8개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [애저 시작하기](https://developer.hashicorp.com/terraform/tutorials/azure-get-started)
+>
+> 테라폼으로 애저 인프라를 구축하고 변경하고 삭제해 보세요. 단계별로 진행되는 명령줄 튜토리얼로 테라폼의 기본을 처음부터 쉽게 익힐 수 있습니다.
+
+> 7개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [도커 시작하기](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
+>
+> 테라폼으로 도커 인프라를 구축하고 변경하고 삭제해 보세요. 단계별로 진행되는 명령줄 튜토리얼로 테라폼의 기본을 처음부터 쉽게 익힐 수 있습니다.
+
+> 7개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [구글 클라우드 시작하기](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started)
+>
+> 테라폼으로 구글 클라우드 인프라를 구축하고 변경하고 삭제해 보세요. 단계별로 진행되는 명령줄 튜토리얼로 테라폼의 기본을 처음부터 쉽게 익힐 수 있습니다.
+
+> 7개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [OCI 시작하기](https://developer.hashicorp.com/terraform/tutorials/oci-get-started)
+>
+> 테라폼으로 OCI를 구축하고 변경하고 삭제해 보세요. 단계별로 진행되는 명령줄 튜토리얼로 테라폼의 기본을 처음부터 쉽게 익힐 수 있습니다.
+
+> 10개의 튜토리얼
+>
+> <!-- TODO Link the document below after translating it -->
+> ### [HCP 테라폼 시작하기](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started)
+>
+> 테라폼을 사용하여 버전 관리 환경에서 협업해 보세요. 이 과정을 따라 원격 실행과 상태를 사용하여 인프라를 구축, 변경, 삭제할 수 있습니다.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
