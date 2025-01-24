@@ -97,6 +97,21 @@ _기준 버전: 1.10.5_
 >
 > [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_solaris_amd64.zip)
 
+## 출시 정보
+
+> ### [변경 내역](https://github.com/hashicorp/terraform/releases/tag/v1.10.5)
+>
+> 테라폼 버전: 1.10.5
+
+> ### [공식 출시](https://www.hashicorp.com/official-release-channels)
+>
+> 공식적으로 지원되는 모든 HashiCorp의 출시 채널과 보안 보증
+
+> ### 참고
+>
+> <!-- TODO Link the tutorial document after translating it -->
+> [테라폼 1.10.5의 SHA256 체크섬](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS)을 온라인에서 확인할 수 있고, [HashiCorp의 GPG 키](https://www.hashicorp.com/security)로 서명된 [체크섬 서명 파일을 검증](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS.sig)할 수 있습니다. 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 HashiCorp 도구를 설치하고 검증하는 방법을 배워 보세요.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
