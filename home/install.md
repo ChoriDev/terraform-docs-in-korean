@@ -75,7 +75,7 @@ _기준 버전: 1.10.5_
 > ### 참고
 >
 > <!-- TODO Link the document below after translating it -->
-> 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 HashiCorp 도구를 설치하고 검증하는 방법을 배우고, 검증된 HashiCorp 도구가 포함된 사용자 지정 리눅스 컨테이너를 생성할 수 있습니다.
+> 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 하시코프 도구를 설치하고 검증하는 방법을 배우고, 검증된 하시코프 도구가 포함된 사용자 지정 리눅스 컨테이너를 생성할 수 있습니다.
 
 > ## FreeBSD
 >
@@ -105,12 +105,12 @@ _기준 버전: 1.10.5_
 
 > ### [공식 출시](https://www.hashicorp.com/official-release-channels)
 >
-> 공식적으로 지원되는 모든 HashiCorp의 출시 채널과 보안 보증
+> 공식적으로 지원되는 모든 하시코프의 출시 채널과 보안 보증
 
 > ### 참고
 >
 > <!-- TODO Link the tutorial document after translating it -->
-> [테라폼 1.10.5의 SHA256 체크섬](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS)을 온라인에서 확인할 수 있고, [HashiCorp의 GPG 키](https://www.hashicorp.com/security)로 서명된 [체크섬 서명 파일을 검증](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS.sig)할 수 있습니다. 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 HashiCorp 도구를 설치하고 검증하는 방법을 배워 보세요.
+> [테라폼 1.10.5의 SHA256 체크섬](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS)을 온라인에서 확인할 수 있고, [하시코프의 GPG 키](https://www.hashicorp.com/security)로 서명된 [체크섬 서명 파일을 검증](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_SHA256SUMS.sig)할 수 있습니다. 이 [튜토리얼](https://developer.hashicorp.com/well-architected-framework/operational-excellence/verify-hashicorp-binary)을 완료하여 모든 리눅스 배포판에서 하시코프 도구를 설치하고 검증하는 방법을 배워 보세요.
 
 ## 다음 단계
 
@@ -187,4 +187,4 @@ _기준 버전: 1.10.5_
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
 
-**마지막 업데이트:** 2025년 1월 24일
+**마지막 업데이트:** 2025년 1월 25일
