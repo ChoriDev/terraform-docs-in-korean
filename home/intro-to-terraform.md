@@ -9,8 +9,42 @@
 > <!-- TODO Link the document below after translating it -->
 > [아마존 웹 서비스](https://developer.hashicorp.com/terraform/tutorials/aws-get-started), [애저](https://developer.hashicorp.com/terraform/tutorials/azure-get-started), [구글 클라우드 플랫폼](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started), [오라클 클라우드 인프라스트럭처](https://developer.hashicorp.com/terraform/tutorials/oci-get-started), [도커](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
 
+## 테라폼은 어떻게 동작하나요?
+
+테라폼은 애플리케이션 프로그래밍 인터페이스(API)로 클라우드 플랫폼과 다른 서비스의 리소스를 생성하고 관리합니다. 프로바이더는 이용할 수 있는 API를 사용하여 테라폼이 거의 모든 플랫폼이나 서비스에서 작동하도록 지원합니다.
+
+``` mermaid
+graph LR
+    T[테라폼] <--> TP[테라폼 프로바이더]
+    TP[테라폼 프로바이더] <--> TA[대상 API]
+```
+
+하시코프와 테라폼 커뮤니티는 여러 유형의 리소스와 서비스를 관리하기 위해 이미 수천 개의 프로바이더를 만들었습니다. 공개적으로 사용할 수 있는 프로바이더는 [테라폼 레지스트리](https://registry.terraform.io/)에서 찾아볼 수 있습니다. 여기에는 아마존 웹 서비스(AWS), 애저, 구글 클라우드 플랫폼(GCP), 쿠버네티스, 헬름, 깃허브, 스플렁크, 데이터독을 비롯해 많은 것이 포함되어 있습니다.
+
+핵심적인 테라폼 워크플로는 세 단계로 구성됩니다.
+
+- 작성: 하나 또는 여러 클라우드 프로바이더와 서비스에 대한 리소스를 정의합니다. 예를 들어, 보안 그룹과 로드 밸런서와 함께 가상 프라이빗 클라우드(VPC) 안에 있는 가상 머신에서 애플리케이션을 배포하는 환경을 구성할 수 있습니다.
+
+- 플랜: 이미 구축된 인프라와 새롭게 작성한 환경 구성에 기반하여 구축, 수정, 삭제할 인프라에 대한 실행 계획을 생성합니다.
+
+- 어플라이: 승인 시, 리소스 종속성을 고려하여 테라폼은 제안된 작업을 올바른 순서대로 수행합니다. 예를 들어, VPC의 속성을 수정하고 VPC 안에 있는 가상 머신의 개수를 변경하려고 하면 테라폼은 가상 머신의 규모를 조정하기 전에 먼저 VPC를 다시 만듭니다.
+
+> ### 작성
+>
+> 환경 구성 파일에서 인프라를 정의합니다.
+>> 테라폼 프로젝트 안에 테라폼 환경 구성과 테라폼 상태 파일이 위치하게 됩니다.
+
+> ### 플랜
+>
+> 테라폼이 변경할 인프라를 검토합니다.
+>> 테라폼이 어떤 작업을 수행할지 화면에 출력됩니다.
+
+> ### 어플라이
+>
+> 테라폼이 인프라를 제공하고 스테이트 파일을 업데이트합니다.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/intro)
 
-**마지막 업데이트:** 2025년 1월 25일
+**마지막 업데이트:** 2025년 1월 26일
