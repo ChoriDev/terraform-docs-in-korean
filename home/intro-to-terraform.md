@@ -43,8 +43,18 @@ graph LR
 >
 > 테라폼이 인프라를 제공하고 스테이트 파일을 업데이트합니다.
 
+## 왜 테라폼을 써야 하나요?
+
+어떻게 테라폼이 인프라의 문제를 해결할 수 있는지 하시코프의 공동 창립자이자 CTO인 아몬 데드가의 설명을 들어 보세요.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h970ZBgKINg?si=OB150qxOpv5kdGgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 어떠한 인프라든 관리할 수 있습니다.
+
+테라폼은 많은 플랫폼과 서비스를 지원합니다. 여러분이 이미 사용하고 있는 것에 대한 프로바이더를 [테라폼 레지스트리](https://registry.terraform.io/)에서 찾아 보세요. 또한 [본인만의 것](https://developer.hashicorp.com/terraform/plugin)을 만들 수도 있습니다. 서비스와 인프라를 업그레이드하거나 수정할 때 복잡성을 줄이기 위해, 테라폼은 불변 인프라 방식을 채택했습니다.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/intro)
 
-**마지막 업데이트:** 2025년 1월 26일
+**마지막 업데이트:** 2025년 1월 27일
