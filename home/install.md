@@ -154,7 +154,7 @@ _기준 버전: 1.10.5_
 > <!-- TODO Link the document below after translating it -->
 > ### [HCP 테라폼 시작하기](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started)
 >
-> 테라폼을 사용하여 버전 관리 환경에서 협업해 보세요. 이 과정을 따라 원격 실행과 상태를 사용하여 인프라를 구축, 변경, 삭제할 수 있습니다.
+> 테라폼을 사용하여 버전 관리 환경에서 협업해 보세요. 이 과정을 따라 원격 실행과 스테이트를 사용하여 인프라를 구축, 변경, 삭제할 수 있습니다.
 
 > ### 테라폼에 대해
 >
@@ -187,4 +187,4 @@ _기준 버전: 1.10.5_
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
 
-**마지막 업데이트:** 2025년 1월 25일
+**마지막 업데이트:** 2025년 1월 27일
