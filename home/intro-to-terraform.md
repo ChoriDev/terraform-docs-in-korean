@@ -49,11 +49,11 @@ graph LR
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h970ZBgKINg?si=OB150qxOpv5kdGgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 어떠한 인프라든 관리할 수 있습니다.
+### 어떠한 인프라든 관리할 수 있습니다
 
 테라폼은 많은 플랫폼과 서비스를 지원합니다. 여러분이 이미 사용하고 있는 것에 대한 프로바이더를 [테라폼 레지스트리](https://registry.terraform.io/)에서 찾아 보세요. 또한 [본인만의 것](https://developer.hashicorp.com/terraform/plugin)을 만들 수도 있습니다. 서비스와 인프라를 업그레이드하거나 수정할 때 복잡성을 줄이기 위해, 테라폼은 불변 인프라 방식을 채택했습니다.
 
-### 인프라를 추적할 수 있습니다.
+### 인프라를 추적할 수 있습니다
 
 테라폼은 인프라를 수정하기 전에 플랜을 생성하고 승인을 받도록 되어 있습니다. 또한 실제 인프라를 스테이트 파일로 추적할 수 있습니다. 스테이트 파일은 여러분이 만든 환경 그 자체를 보여줍니다. 테라폼은 여러분의 환경 구성에 일치시키기 위해 스테이트 파일로 하여금 여러분의 인프라를 어떻게 변경할지 결정합니다.
 
@@ -61,4 +61,4 @@ graph LR
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/intro)
 
-**마지막 업데이트:** 2025년 1월 27일
+**마지막 업데이트:** 2025년 1월 29일
