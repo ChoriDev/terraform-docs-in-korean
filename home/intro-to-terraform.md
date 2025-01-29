@@ -47,7 +47,7 @@ graph LR
 
 어떻게 테라폼이 인프라의 문제를 해결할 수 있는지 하시코프의 공동 창립자이자 CTO인 아몬 데드가의 설명을 들어 보세요.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h970ZBgKINg?si=OB150qxOpv5kdGgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[하시코프 테라폼에 대한 아몬 데드가의 소개 영상](https://youtu.be/h970ZBgKINg)
 
 ### 어떠한 인프라든 관리할 수 있습니다
 
