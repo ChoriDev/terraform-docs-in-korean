@@ -65,8 +65,18 @@ graph LR
 
 테라폼은 재사용할 수 있는 구성 요소인 모듈을 지원합니다. 모듈은 인프라의 설정을 변경할 수 있는 집합체를 정의합니다. 모듈을 활용하면 시간을 아낄 수 있으며 모범 사례가 될 수 있습니다. 여러분은 테라폼 레지스트리를 참고하여 공개적으로 이용할 수 있는 모듈을 사용할 수 있고 또는 직접 본인만의 모듈을 작성할 수 있습니다.
 
+### 협업에 유용합니다
+
+<!-- TODO Link the document below after translating it -->
+환경 구성이 파일로 작성되기 때문에 여러분은 이것을 버전 관리 시스템(VCS)에 커밋할 수 있습니다. 그리고 팀 간에 테라폼 워크플로를 효율적으로 관리하기 위해 [HCP 테라폼](https://developer.hashicorp.com/terraform/intro/terraform-editions#hcp-terraform)을 사용할 수 있습니다. HCP 테라폼은 일관되고 신뢰할 수 있는 환경에서 테라폼을 실행하며 공유된 스테이트와 비밀 데이터에 대해 안전한 접근, 역할에 따른 접근 제어, 모듈과 프로바이더를 모두 공유하기 위한 개인 소유의 레지스트리 등을 제공합니다.
+
+> #### 팁
+>
+> <!-- TODO Link the document below after translating it -->
+> [테라폼의 사용 사례](https://developer.hashicorp.com/terraform/intro/use-cases)와 [테라폼과 다른 솔루션 비교](https://developer.hashicorp.com/terraform/intro/vs)를 더 알아 보세요.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/intro)
 
-**마지막 업데이트:** 2025년 2월 1일
+**마지막 업데이트:** 2025년 2월 2일
