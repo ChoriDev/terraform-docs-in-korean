@@ -19,6 +19,7 @@ graph LR
     TP[테라폼 프로바이더] <--> TA[대상 API]
 ```
 
+> <!-- TODO Link the document below after translating it -->
 하시코프와 테라폼 커뮤니티는 여러 유형의 리소스와 서비스를 관리하기 위해 이미 수천 개의 프로바이더를 만들었습니다. 공개적으로 사용할 수 있는 프로바이더는 [테라폼 레지스트리](https://registry.terraform.io/)에서 찾아볼 수 있습니다. 여기에는 아마존 웹 서비스(AWS), 애저, 구글 클라우드 플랫폼(GCP), 쿠버네티스, 헬름, 깃허브, 스플렁크, 데이터독을 비롯해 많은 것이 포함되어 있습니다.
 
 핵심적인 테라폼 워크플로는 세 단계로 구성됩니다.
@@ -51,6 +52,7 @@ graph LR
 
 ### 어떠한 인프라든 관리할 수 있습니다
 
+> <!-- TODO Link the document below after translating it -->
 테라폼은 많은 플랫폼과 서비스를 지원합니다. 여러분이 이미 사용하고 있는 것에 대한 프로바이더를 [테라폼 레지스트리](https://registry.terraform.io/)에서 찾아 보세요. 또한 [본인만의 프로바이더](https://developer.hashicorp.com/terraform/plugin)를 만들 수도 있습니다. 서비스와 인프라를 업그레이드하거나 수정할 때 복잡성을 줄이기 위해, 테라폼은 불변 인프라 방식을 채택했습니다.
 
 ### 인프라를 추적할 수 있습니다
