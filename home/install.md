@@ -1,3 +1,21 @@
+#### 목차
+
+[맥OS](#맥OS)
+
+[윈도우](#윈도우)
+
+[리눅스](#리눅스)
+
+[FreeBSD](#FreeBSD)
+
+[OpenBSD](#OpenBSD)
+
+[솔라리스](#솔라리스)
+
+[출시 정보](#출시-정보)
+
+[다음 단계](#다음-단계)
+
 # 테라폼 설치하기
 
 _기준 버전: 1.10.5_
@@ -93,7 +111,7 @@ _기준 버전: 1.10.5_
 >
 > [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_openbsd_amd64.zip)
 
-> ## Solaris
+> ## 솔라리스
 >
 > [AMD64](https://releases.hashicorp.com/terraform/1.10.5/terraform_1.10.5_solaris_amd64.zip)
 
@@ -187,4 +205,4 @@ _기준 버전: 1.10.5_
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/install)
 
-**마지막 업데이트:** 2025년 1월 27일
+**마지막 업데이트:** 2025년 2월 3일
