@@ -77,8 +77,18 @@ graph LR
 > <!-- TODO Link the document below after translating it -->
 > [테라폼의 사용 사례](https://developer.hashicorp.com/terraform/intro/use-cases)와 [테라폼과 다른 솔루션 비교](https://developer.hashicorp.com/terraform/intro/vs)를 더 알아 보세요.
 
+## 커뮤니티
+
+커뮤니티에 질문하거나 제안하거나 기여해 보세요.
+
+- [하시코프 토론장](https://discuss.hashicorp.com/c/terraform-core/27)에서 질문을 올릴 수 있습니다.
+
+- [기여 안내](https://github.com/hashicorp/terraform/blob/main/.github/CONTRIBUTING.md)를 읽어 보세요.
+
+- [버그나 기능 요청에 관한 이슈](https://github.com/hashicorp/terraform/issues/new/choose)를 올려 주세요.
+
 ---
 
 ### [테라폼 공식 문서](https://developer.hashicorp.com/terraform/intro)
 
-**마지막 업데이트:** 2025년 2월 2일
+**마지막 업데이트:** 2025년 2월 3일
